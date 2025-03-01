@@ -1,0 +1,17 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  company_name: MyString
+  type: 
+  duration: 1
+  departure_location: MyString
+  city: one
+  price: 9.99
+
+two:
+  company_name: MyString
+  type: 
+  duration: 1
+  departure_location: MyString
+  city: two
+  price: 9.99

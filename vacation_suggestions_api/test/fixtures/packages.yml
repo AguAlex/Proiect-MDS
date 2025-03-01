@@ -1,0 +1,19 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  property: one
+  user: one
+  number_of_people: 1
+  price: 9.99
+  transportation: one
+  start_date: 2025-03-01
+  end_date: 2025-03-01
+
+two:
+  property: two
+  user: two
+  number_of_people: 1
+  price: 9.99
+  transportation: two
+  start_date: 2025-03-01
+  end_date: 2025-03-01
