@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  property: one
+  price_per_night: 9.99
+  number_of_people: 1
+  number_of_rooms: 1
+
+two:
+  property: two
+  price_per_night: 9.99
+  number_of_people: 1
+  number_of_rooms: 1
