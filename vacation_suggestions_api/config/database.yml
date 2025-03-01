@@ -17,3 +17,4 @@ production:
   database: vacation_suggestions_api_production
   username: vacation_suggestions_api
   password: <%= ENV["VACATION_SUGGESTIONS_API_DATABASE_PASSWORD"] %>
+#g;lamgsa
