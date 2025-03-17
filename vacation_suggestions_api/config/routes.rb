@@ -6,7 +6,8 @@ Rails.application.routes.draw do
   resources :transportations
   resources :facilities
   resources :cities
-  resources :countries
+  resources :countries, only: [:index, :show, :create, :update, :destroy]
+  get "countries_index", to: "countries#index"
   resources :users
   resources :vacations
 end
